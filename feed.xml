@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Páginas Encantadas – Canal RSS de Adriana Pájaro</title>
+    <link>https://paginasencantadas.my.canva.site/</link>
+    <description>Descubre los libros mágicos, emotivos y oscuros de Adriana Pájaro.</description>
+    <language>es</language>
+
+    <item>
+      <title>Elisabeth</title>
+      <link>https://paginasencantadas.my.canva.site/elisabeth</link>
+      <description>Un pasado que la sigue desde su nacimiento, aquello que está ahí, no para hasta que sea suya.</description>
+      <guid>https://paginasencantadas.my.canva.site/elisabeth</guid>
+    </item>
+
+    <item>
+      <title>Extraordinario mundo de Elie</title>
+      <link>https://extraordinario-mundo-de-elie.my.canva.site</link>
+      <description>Elie se siempre feliz, Elie una niña que está en un orfanato por fin es adoptada por una pareja de jóvenes que desean tener una hija.</description>
+      <guid>https://extraordinario-mundo-de-elie.my.canva.site</guid>
+    </item>
+
+    <item>
+      <title>Un atardecer contigo</title>
+      <link>https://paginasencantadas.my.canva.site/un-atardecer-contigo</link>
+      <description>Un solo atardecer basta, porque en todos los atardeceres siempre te recordaré.</description>
+      <guid>https://paginasencantadas.my.canva.site/un-atardecer-contigo</guid>
+    </item>
+
+  </channel>
+</rss>
